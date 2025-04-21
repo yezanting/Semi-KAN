@@ -11,7 +11,7 @@ Official code for the paper "Semi-KANN: Kolmogorov-Arnold Network Provides an Ef
 
 If you're interested in this work, feel free to star ⭐ this repository to get notified when the code is released.
 
-For any inquiries, please contact the authors.
+For any inquiries, please contact the authors, yzt2861252880@gmail.com
 
 ---
 
