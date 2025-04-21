@@ -13,6 +13,8 @@ If you're interested in this work, feel free to star ⭐ this repository to get 
 
 For any inquiries, please contact the authors, yzt2861252880@gmail.com
 
+Thank you for your interest!
+
 ---
 
 ## 📢 中文说明
@@ -27,7 +29,7 @@ For any inquiries, please contact the authors, yzt2861252880@gmail.com
 yzt2861252880@gmail.com
 ---
 
-Thank you for your interest!
+
 
 ## 📚 Citation
 
